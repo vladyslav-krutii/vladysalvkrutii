@@ -29,18 +29,18 @@ now:       building projects where security meets infrastructure
 ### `> ls ~/projects --featured`
 
 <p align="center">
-  <a href="https://github.com/vladysalvkrutii/secscan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vladysalvkrutii&repo=secscan&description_lines_count=3&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="secscan"/>
+  <a href="https://github.com/vladyslav-krutii/secscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vladyslav-krutii&repo=secscan&description_lines_count=3&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="secscan"/>
   </a>
-  <a href="https://github.com/vladysalvkrutii/kse-air-alerts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vladysalvkrutii&repo=kse-air-alerts&description_lines_count=3&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="kse-air-alerts"/>
+  <a href="https://github.com/vladyslav-krutii/kse-air-alerts">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vladyslav-krutii&repo=kse-air-alerts&description_lines_count=3&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="kse-air-alerts"/>
   </a>
 </p>
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🛡️ [**secscan**](https://github.com/vladysalvkrutii/secscan) | Security-headers scanner API wrapped in a full DevOps pipeline: hardened multi-stage image, CI with lint → tests → Trivy scan → GHCR, K8s manifests, Prometheus + Grafana monitoring | FastAPI · Docker · Kubernetes · GitHub Actions · Trivy |
-| 🚨 [**kse-air-alerts**](https://github.com/vladysalvkrutii/kse-air-alerts) | Hourly per-oblast forecast of new air-raid alerts in Ukraine, evaluated walk-forward so no forecast ever sees the future | Python · pandas · scikit-learn |
+| 🛡️ [**secscan**](https://github.com/vladyslav-krutii/secscan) | Security-headers scanner API wrapped in a full DevOps pipeline: hardened multi-stage image, CI with lint → tests → Trivy scan → GHCR, K8s manifests, Prometheus + Grafana monitoring | FastAPI · Docker · Kubernetes · GitHub Actions · Trivy |
+| 🚨 [**kse-air-alerts**](https://github.com/vladyslav-krutii/kse-air-alerts) | Hourly per-oblast forecast of new air-raid alerts in Ukraine, evaluated walk-forward so no forecast ever sees the future | Python · pandas · scikit-learn |
 
 ### `> stack --list`
 
@@ -61,17 +61,17 @@ now:       building projects where security meets infrastructure
 ### `> git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladysalvkrutii&show_icons=true&hide_rank=true&hide=issues,contribs&line_height=24&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladysalvkrutii&layout=compact&langs_count=6&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&bg_color=0d1117" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vladyslav-krutii&show_icons=true&hide_rank=true&hide=issues,contribs&line_height=24&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-krutii&layout=compact&langs_count=6&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&bg_color=0d1117" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vladysalvkrutii&card_width=724&theme=github-dark-blue&border=1D4636&border_radius=14&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vladyslav-krutii&card_width=724&theme=github-dark-blue&border=1D4636&border_radius=14&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="Streak"/>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladysalvkrutii/vladysalvkrutii/output/snake-dark.svg?v=2" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/vladysalvkrutii/vladysalvkrutii/output/snake.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vladyslav-krutii/vladyslav-krutii/output/snake-dark.svg?v=3" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/vladyslav-krutii/vladyslav-krutii/output/snake.svg?v=3" />
   </picture>
 </p>
 
