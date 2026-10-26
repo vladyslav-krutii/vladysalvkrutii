@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00ff9c&height=180&section=header&text=Vladyslav%20Krutii&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=cybersecurity%20%C2%B7%20CTF%20%C2%B7%20DevOps&descSize=18&descAlignY=60&descColor=00ff9c" width="100%"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami;Cybersecurity+student+%40+KSE+%F0%9F%87%BA%F0%9F%87%A6;CTF+player+%E2%80%94+team+KSE_CS1;Reversing+binaries+%26+breaking+web+apps;Shipping+with+Docker%2C+K8s+%26+CI%2FCD" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=620&lines=%24+whoami;Cybersecurity+student+%40+KSE+%F0%9F%87%BA%F0%9F%87%A6;CTF+player+%E2%80%94+team+KSE_CS1;Reversing+binaries+%26+breaking+web+apps;Shipping+with+Docker%2C+K8s+%26+CI%2FCD" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -61,11 +59,11 @@ now:       building projects where security meets infrastructure
 ### `> git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladyslav-krutii&show_icons=true&hide_rank=true&hide=issues,contribs&line_height=24&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&bg_color=0d1117" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-krutii&layout=compact&langs_count=6&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&bg_color=0d1117" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vladyslav-krutii&show_icons=true&hide_rank=true&hide=issues,contribs&line_height=24&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&icon_color=00ff9c&text_color=e6edf3&bg_color=0d1117" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-krutii&layout=compact&langs_count=6&card_width=360&theme=github_dark&border_color=1d4636&border_radius=14&title_color=00ff9c&text_color=e6edf3&bg_color=0d1117" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vladyslav-krutii&card_width=724&theme=github-dark-blue&border=1D4636&border_radius=14&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=vladyslav-krutii&card_width=724&border_radius=14&background=0D1117&border=1D4636&stroke=1D4636&ring=00FF9C&fire=00FF9C&currStreakNum=E6EDF3&sideNums=00FF9C&currStreakLabel=00FF9C&sideLabels=E6EDF3&dates=8B949E" alt="Streak"/>
 </p>
 
 <p align="center">
